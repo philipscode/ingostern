@@ -4,12 +4,14 @@
       "id": 1,
       "name": "Leanne Graham",
       "username": "Bret",
+      "password": "qwerty"
       "email": "Sincere@april.biz"
     },
     {
       "id": 2,
       "name": "Philipp Pozdnyakov",
       "username": "cool_user",
+      "password": "password",
       "email": "tmp@gmail.com"
     }
   ]
