@@ -5,14 +5,23 @@
       "name": "Leanne Graham",
       "username": "Bret",
       "password": "qwerty",
-      "email": "Sincere@april.biz"
+      "email": "Sincere@april.biz",
+      "phone": "+7 (961) 364-70-95",
+      "position": "Стажер",
+      "team": "Команда Капибары",
+      "level": "lvl:1"
     },
     {
       "id": 2,
       "name": "Philipp Pozdnyakov",
       "username": "cool_user",
       "password": "password",
-      "email": "tmp@gmail.com"
-    }
-  ]
-}
+      "email": "tmp@gmail.com",
+      "phone": "+7 (961) 364-70-95",
+      "position": "Стажер",
+      "team": "Команда Капибары",
+      "level": "lvl:1"
+    }                                                     
+  ],
+  "posts":  []
+}                             
